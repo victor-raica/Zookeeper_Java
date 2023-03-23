@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Zookeeper (Java)/task/build/
+/Zookeeper (Java)/task/out/
+/Zookeeper (Java)/task/out/production/classes/
